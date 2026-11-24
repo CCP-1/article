@@ -1,0 +1,80 @@
+{
+  "scope": "Two archived urban rescue demonstrations and their geometry",
+  "files": [
+    {
+      "path": "data/lower_manhattan/environment/buildings.geojson",
+      "bytes": 3063698,
+      "sha256": "6a571dca68aa89482d97ca5a6d23726a0a4e1fddec0864358c713fba190af7ba"
+    },
+    {
+      "path": "data/lower_manhattan/environment/vehicle_road_network_largest_component.geojson",
+      "bytes": 1301080,
+      "sha256": "bef610c122b55006e6254ea6e1e2fdcc75eb67bba6707edaa65e5a36396d9802"
+    },
+    {
+      "path": "data/chicago_official_v1/geometry/matlab_network_input.json",
+      "bytes": 2166476,
+      "sha256": "2886689197e537a1c911b3fbc838f0b91bc47382425fb3009672892ef6b32591"
+    },
+    {
+      "path": "data/chicago_official_v1/physics_grid10/air_physics_5m.json",
+      "bytes": 1046531,
+      "sha256": "bb3d77a4a2627473bc50188b5e6d7d6a67837426fcebdc05a3df64609fc15330"
+    },
+    {
+      "path": "matlab/test_cross_city_replay_viewer.m",
+      "bytes": 6397,
+      "sha256": "07c69180d59b3132701fca6c5ed058b247b643f225cbf116458a901a2322636b"
+    },
+    {
+      "path": "matlab/launch_cross_city_replays.m",
+      "bytes": 663,
+      "sha256": "896e8e9f5756e70453348909ad75b4801651db01a861e60abf8e20117d4dce26"
+    },
+    {
+      "path": "matlab/render_cross_city_replay.m",
+      "bytes": 5726,
+      "sha256": "7b4442b27aa00d5a798583cdbacce6e702754bebe65ebf7adea66e9da836cd9b"
+    },
+    {
+      "path": "matlab/generate_cross_city_replay_v3.m",
+      "bytes": 1323,
+      "sha256": "b7351c3782819aa9ccf4ce0d150942a4da74e4adc9b1f265da9237187bdda77b"
+    },
+    {
+      "path": "matlab/open_cross_city_replay_viewer.m",
+      "bytes": 31747,
+      "sha256": "66b3073a7d305c0e314783b2b47aea9a966c7b635962627f4ffaf167f3a1f5b4"
+    },
+    {
+      "path": "outputs/cross_city_matlab_replay_v3/lower_manhattan/scene.json",
+      "bytes": 4692865,
+      "sha256": "27a61af7058c57cbe58a16358215000ae27c78c5a2bf6054f6daeef77939c30d"
+    },
+    {
+      "path": "outputs/cross_city_matlab_replay_v3/lower_manhattan/replay.mp4",
+      "bytes": 2494882,
+      "sha256": "96dbac88490e1434d792ce5553ab2eca62982fe2fa8f2cedcb811c5c06cab2b4"
+    },
+    {
+      "path": "outputs/cross_city_matlab_replay_v3/lower_manhattan/final_status.png",
+      "bytes": 273336,
+      "sha256": "f17404de569b782fe6c1ec53cb4341d9dee6cd1dff5ff2e809d8bf254e9eb7a6"
+    },
+    {
+      "path": "outputs/cross_city_matlab_replay_v3/chicago/scene.json",
+      "bytes": 3660589,
+      "sha256": "66c0bfcdde59a4abbe5df3850f9e5ad7bfeadf97f4a66e2df3ef0798e8e03431"
+    },
+    {
+      "path": "outputs/cross_city_matlab_replay_v3/chicago/replay.mp4",
+      "bytes": 2969487,
+      "sha256": "3a5066921ed2dd97147fa2f48d470665ce5778e8f4f7900d5ec9cad601682b01"
+    },
+    {
+      "path": "outputs/cross_city_matlab_replay_v3/chicago/final_status.png",
+      "bytes": 319009,
+      "sha256": "e1899b5db1080e0d21de484fa5cad3d3433c5dc957842abe32367d149efe00ff"
+    }
+  ]
+}
